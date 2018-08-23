@@ -24,4 +24,4 @@ UIColor.concrete()
 UIColor.asbestos()
 ```
 
-![alt tag](https://raw.githubusercontent.com/mihailt/Swift-Flat-UI-Colors/master/screenshot.png)
+![alt tag](https://raw.githubusercontent.com/briznad/Swift-Flat-UI-Colors/Flat_UI_Palette.png)
