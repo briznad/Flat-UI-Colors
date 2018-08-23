@@ -1,6 +1,6 @@
 # Swift-Flat-UI-Colors
 
-Extends UIColor to have colors from http://flatuicolors.com/
+Extends UIColor with FLatUI colors from https://flatuicolors.com/palette/defo
 ```
 UIColor.turquoise()
 UIColor.greenSea()
